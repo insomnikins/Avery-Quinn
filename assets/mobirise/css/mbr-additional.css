@@ -34,7 +34,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Pacifico', handwriting;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -683,7 +683,7 @@ a {
   transition: color 0.6s;
 }
 .cid-t5UqhE9BTn {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-color: #000000;
 }
 .cid-t5UqhE9BTn .mbr-fallback-image.disabled {
   display: none;
@@ -707,33 +707,21 @@ a {
   font-size: 32px;
   border-radius: 50%;
   padding: 0.6rem;
-  border: 2px solid #232323;
+  border: 2px solid #ffffff;
   transition: all 0.3s;
-  color: #232323;
-}
-.cid-t5UqhE9BTn .social-row .soc-item .mbr-iconfont:hover {
-  background-color: #232323;
   color: #ffffff;
 }
-.cid-t5UqhE9BTn .mbr-section-title {
+.cid-t5UqhE9BTn .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #ffffff;
   color: #000000;
 }
-.cid-t5UrrspXBV {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+.cid-t5UqhE9BTn .mbr-section-title {
+  color: #ffffff;
 }
-.cid-t5UrrspXBV .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-t5UrrspXBV .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-t5UqhE9BTn .mbr-text,
+.cid-t5UqhE9BTn .mbr-section-btn,
+.cid-t5UqhE9BTn .social-row {
+  color: #fafafa;
 }
 .cid-t5UrCQXIsY {
   padding-top: 6rem;
@@ -812,40 +800,4 @@ a {
 }
 .cid-t5Uy8bxgJv .mbr-section-title {
   color: #232323;
-}
-.cid-t5UyE5UCmA {
-  background-color: #98dee8;
-}
-.cid-t5UyE5UCmA .mbr-text,
-.cid-t5UyE5UCmA .mbr-section-btn {
-  color: #232323;
-}
-@media (max-width: 991px) {
-  .cid-t5UyE5UCmA .mbr-text,
-  .cid-t5UyE5UCmA .mbr-section-title {
-    text-align: center;
-  }
-}
-.cid-t5UyE5UCmA a.btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-t5UyE5UCmA .mbr-section-btn {
-  display: flex;
-  margin-bottom: 1.2rem;
-  width: 100%;
-}
-.cid-t5UyE5UCmA .mbr-section-btn .btn {
-  width: 100%;
-}
-@media (max-width: 991px) {
-  .cid-t5UyE5UCmA .image-wrapper {
-    margin-bottom: 2rem;
-  }
-  .cid-t5UyE5UCmA .content-wrapper {
-    flex-direction: column-reverse;
-  }
-}
-.cid-t5UyE5UCmA .justify-content-center {
-  align-items: center;
 }
